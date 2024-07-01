@@ -1,7 +1,6 @@
 <!---- Provide an overview of what is being achieved in this repo ----> 
-# HLS Foundation model Finetuning using AWS Sagemaker
-
-This repo demonstrates the how  Harmonized Landsat and Sentinel-2 (HLS) Foundation Model can be finetuned using AWS sagemaker. The repo will also demonstrate how to get inferences from the fine-tuned model after the training is complete.
+# IGARSS Tutorial 2024
+This repo contains materials for the tutorial: [GRSS ESI/HDCRS Machine Learning Lifecycle in High Performance Computers and Cloud: A Focus on Geospatial Foundation Models](https://www.2024.ieeeigarss.org/tutorials.php#tut1). In this tutorial we will cover geospatial foundation models and Large Language Models for science. We will also be fine-tuning the aforementioned models for specific usecases. For the purposes of this tutorial, we will be utilizing AWS sagemaker environment. The repo will also demonstrate how to get inferences from the fine-tuned geospatial and LLM models after the training is complete.
 
 # Prerequisites
 1. Basic understanding of git
