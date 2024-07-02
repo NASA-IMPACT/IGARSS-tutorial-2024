@@ -30,12 +30,12 @@ This repo contains materials for the tutorial: [GRSS ESI/HDCRS Machine Learning 
 ![Run space](images/updated-instance-config.png)
 
 # Steps to Train (Parts of these steps are also available in the [fine-tuning notebook](notebooks/hls-fm-finteuning.ipynb)):
-1. Clone this repository `git clone https://github.com/nasa-impact/hls-foundation-sagemaker.git`
+1. Clone this repository `git clone https://github.com/nasa-impact/IGARSS-tutorial-2024.git`
 ```
 a. Click `git`
 b. Click on `Git Clone Repo`
 ![Git clone](images/git-clone-1.png)
-c. Paste `https://github.com/nasa-impact/hls-foundation-sagemaker.git` and Click on `Clone`.
+c. Paste `https://github.com/nasa-impact/IGARSS-tutorial-2024.git` and Click on `Clone`.
 ![Cloned repository](images/smd-hls-git-clone.png)
 ![Cloned repository](images/smd-hls-cloned-content.png)
 ```
@@ -63,7 +63,7 @@ pip install -r requirements.txt
 ```
 6. Define constants. **Note: Please update the variables as needed**
 ```
-BUCKET_NAME = '<your-bucket-name>' # Replace this with the bucket name available from http://smd-ai-workshop-creds-webapp.s3-website-us-east-1.amazonaws.com/ 
+BUCKET_NAME = '<your-bucket-name>' # Replace this with the bucket name available from https://creds-workshop.nasa-impact.net/
 CONFIG_PATH = './configs'
 DATASET_PATH = './datasets'
 MODEL_PATH = './models'
