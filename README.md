@@ -4,6 +4,7 @@ This repo contains materials for the tutorial: [GRSS ESI/HDCRS Machine Learning 
 
 # Slides:
 [MACHINE LEARNING LIFECYCLE IN HIGH PERFORMANCE COMPUTERS AND CLOUD: A FOCUS ON GEOSPATIAL FOUNDATION MODELS - Gabriele](https://drive.google.com/file/d/1Dn2ZqdP242FaET8W5qeW0fJKwRc1TRrQ/view?usp=sharing)
+
 [Geospatial Foundation Models and LLMs for Science - Rahul](https://docs.google.com/presentation/d/1lvs3l6cHoUV-h8_nbNWC700CduWRupfmTOk2X6JGVAs/edit?usp=sharing)
 
 # Prerequisites
