@@ -2,6 +2,10 @@
 # IGARSS Tutorial 2024
 This repo contains materials for the tutorial: [GRSS ESI/HDCRS Machine Learning Lifecycle in High Performance Computers and Cloud: A Focus on Geospatial Foundation Models](https://www.2024.ieeeigarss.org/tutorials.php#tut1). In this tutorial we will cover geospatial foundation models and Large Language Models for science. We will also be fine-tuning the aforementioned models for specific usecases. For the purposes of this tutorial, we will be utilizing AWS sagemaker environment. The repo will also demonstrate how to get inferences from the fine-tuned geospatial and LLM models after the training is complete.
 
+# Slides:
+[MACHINE LEARNING LIFECYCLE IN HIGH PERFORMANCE COMPUTERS AND CLOUD: A FOCUS ON GEOSPATIAL FOUNDATION MODELS - Gabriele](https://drive.google.com/file/d/1Dn2ZqdP242FaET8W5qeW0fJKwRc1TRrQ/view?usp=sharing)
+[Geospatial Foundation Models and LLMs for Science - Rahul](https://docs.google.com/presentation/d/1lvs3l6cHoUV-h8_nbNWC700CduWRupfmTOk2X6JGVAs/edit?usp=sharing)
+
 # Prerequisites
 1. Basic understanding of git
 2. Python and jupyter environment knowledge
