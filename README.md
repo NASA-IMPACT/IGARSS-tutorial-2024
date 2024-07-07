@@ -131,7 +131,7 @@ environment_variables = {
     'VERSION': 'v1'
 }
 
-ecr_container_url = '637423382292.dkr.ecr.us-west-2.amazonaws.com/sagemaker_hls:latest'
+ecr_container_url = '574347909231.dkr.ecr.us-west-2.amazonaws.com/sagemaker_hls:latest'
 sagemaker_role = 'SageMaker-ExecutionRole-20240206T151814'
 
 instance_type = 'ml.p3.2xlarge'
